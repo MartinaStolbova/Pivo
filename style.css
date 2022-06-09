@@ -152,7 +152,7 @@ hr{
   color: white;
   padding: 10px 30px;
   border:1px solid red;
-  margin: 0 auto;
+  margin: 5% 35% 5% 25%;
 
 }
 
@@ -170,7 +170,8 @@ margin-bottom: 20px;
   flex-direction: row-reverse;
   justify-content: space-between;
   align-items: center;
-  margin: 5%;
+  margin: 10%;
+ 
 }
 
 .menu__down--link{
@@ -179,6 +180,7 @@ margin-bottom: 20px;
   font-size: 10px;
   flex-basis: 7%;
   column-gap: 5%;
+  
 }
 
 .footer {
